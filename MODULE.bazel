@@ -54,4 +54,4 @@ http_archive(
 
 # Dependencies needed for development.
 
-bazel_dep(name = "rules_shell", version = "0.4.1", dev_dependency = True)
+bazel_dep(name = "rules_shell", version = "0.8.0", dev_dependency = True)
